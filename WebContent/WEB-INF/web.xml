@@ -23,12 +23,4 @@
     <url-pattern>/servlet</url-pattern>
   </servlet-mapping>
   
-    <servlet>
-    <servlet-name>demo2</servlet-name>
-    <servlet-class>com.leon.demo.MyHttpServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>demo2</servlet-name>
-    <url-pattern>/httpservlet</url-pattern>
-  </servlet-mapping>
 </web-app>
